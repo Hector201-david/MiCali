@@ -52,6 +52,7 @@
 
 #text1 {
     margin-top: 10px;
+    text-align: center;
 
 }
 
@@ -62,4 +63,20 @@ a {
 
 #nameIngred{
     text-align: center;
+}
+
+
+#textoscenter{
+    align-items: center;
+    text-align: center;
+}
+
+
+#navgaleri{
+    margin-left: -15px;
+    margin-right: 15px;
+}
+
+#navgcarta{
+    margin-left: -15px;
 }
